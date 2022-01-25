@@ -6,6 +6,6 @@
 
 Merhaba 👋
 
-Son zamanlarda popülerleşen Wordle uygulamasının Türkçe web sitesi https://mrsteelion.github.io/wordle/
+Son zamanlarda popülerleşen Wordle uygulamasının Türkçe web sitesi https://mrsteelion.github.io/wordle-tr/
 
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="npm" align="center" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
