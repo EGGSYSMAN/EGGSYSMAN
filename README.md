@@ -1,13 +1,26 @@
-<h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<h1 align="center">Merhaba 👋, Ben EGGSYSMAN</h1>
+<h3 align="center">Arada bir Github'a uğrayan bir kullanıcı.</h3>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=EGGSYSMAN&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGGSYSMAN&theme=radical&hide_border=true&layout=compact">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
 
-Merhaba 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eggsysman" alt="eggsysman" /></a> </p>
 
-Son zamanlarda popülerleşen Wordle uygulamasının Türkçe web sitesi https://eggsysman.github.io/wordle-tr/ ve kaynak kodu: https://github.com/EGGSYSMAN/wordle-tr
+- 🔭 Websitem üzerinde çalışıyorum. [GBot](https://gbots.app/)
 
-İşinizi kolaylaştırabileceğini düşündüğüm bir NPM Modülü: https://github.com/EGGSYSMAN/facilitator-package
+- 🌱 Şu anda öğrenmeye çalıştıklarım: **Typescript, React**
 
-<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="npm" align="center" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+- 👯 Son zamanlarda popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://eggsysman.github.io/wordle-tr/)
+
+- 🤝İşinizi kolaylaştırabileceğini düşündüğüm bir NPM Modülü [Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)
+
+<p align="left">
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eggsysman&show_icons=true&locale=en&layout=compact" alt="eggsysman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eggsysman&show_icons=true&locale=en" alt="eggsysman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eggsysman&" alt="eggsysman" /></p>
