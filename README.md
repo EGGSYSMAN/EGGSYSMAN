@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben EGGSYSMAN</h1>
+<h1 align="center">Merhaba 👋, Ben EGGSYSMAN Namı Diğer SepulturA</h1>
 <h3 align="center">Arada bir Github'a uğrayan bir kullanıcı.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
