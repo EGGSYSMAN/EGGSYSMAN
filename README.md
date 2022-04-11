@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eggsysman&show_icons=true&theme=radical&locale=tr" alt="eggsysman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eggsysman&" alt="eggsysman" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EGGSYSMAN&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
