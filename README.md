@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben EGGSYSMAN Namı Diğer SepulturA</h1>
 <h3 align="center">Arada bir Github'a uğrayan bir kullanıcı.</h3>
 
-<img alt="SepulturA's Discord Activity" src="https://lanyard.cnrad.dev/api/398041692856647690"/>
+<p align="center"> <img alt="SepulturA's Discord Activity" src="https://lanyard.cnrad.dev/api/398041692856647690"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
 
