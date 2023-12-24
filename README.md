@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eggsysman" alt="eggsysman" /></a> </p>
 
-- 🔭 Websitem ile uğraşıyorum. Kendisi GBot blog sitesi teknoloji, bilim, oyunlar, dizi/film, yazılım ve çok daha fazlası hakkında bilgi sahibi olabileceğiniz bir blog websitesi: [GBot](https://wwwçgbots.app/)
+- 🔭 Websitem ile uğraşıyorum. Kendisi GBot blog sitesi teknoloji, bilim, oyunlar, dizi/film, yazılım ve çok daha fazlası hakkında bilgi sahibi olabileceğiniz bir blog websitesi: [GBot](https://www.gbots.app/)
 
 - 🌱 Şu anda öğrenmeye çalıştıklarım: **Typescript, React**
 
